@@ -1,0 +1,30 @@
+
+body{
+  background-color:#F5F5DC;
+}
+
+  .heading , .info{
+ text-align: center;
+ color:#81583b;
+   
+  }
+
+  .heading{
+    padding:5rem;
+    padding-bottom: 3rem;
+  }
+  .info{
+    font-size: 1rem;
+    padding-bottom: 4rem;
+
+  }
+
+ .border{
+   border: 1rem wave;
+  border-width: 2rem; 
+  margin: 3rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+ }
+
+

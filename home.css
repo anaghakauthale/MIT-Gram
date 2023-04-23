@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+   
   
   
    }
@@ -48,7 +49,7 @@ section:nth-child(5) {
 
 
   .header{
-    background-color: #ece5da;
+   background-color:   #ece5da;     /*   #E0E0E2 ; */
     text-align: center;
     height:20rem; 
   }
@@ -171,4 +172,7 @@ align-items: baseline;
 
 @media screen and (min-width: 768px) {
 
+}
+.card{
+  background-color: #e3e0da;
 }
