@@ -10,8 +10,8 @@ body{
   }
 
   .heading{
-    padding:5rem;
-    padding-bottom: 3rem;
+    padding-top: 4rem;
+    padding-bottom: 1rem;
   }
   .info{
     font-size: 1rem;
@@ -21,10 +21,17 @@ body{
 
  .border{
    border: 1rem wave;
-  border-width: 2rem; 
-  margin: 3rem;
-  padding-left: 5rem;
+
+  margin:3rem;
+  /* margin-top: 1rem; */
+  /* padding-left: 5rem;
   padding-right: 5rem;
+  padding-top: -5rem; */
  }
 
-
+.add{
+  height: 6px;
+  width:6px;
+  margin-left: 65rem;
+  /* margin-top: 10rem; */
+}
